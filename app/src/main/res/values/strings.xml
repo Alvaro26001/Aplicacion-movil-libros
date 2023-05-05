@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Libros</string>
+    <string name="description_image">Splash Libros</string>
+
+    <!-- value  Login -->
+
+    <string name="description_image_login">Login</string>
+    <string name="text_hint_usuario">Usuario</string>
+    <string name="text_hint_pin">Pin</string>
+    <string name="text_button_ingresar">Ingresar</string>
+    <string name="text_button_registrarme">Registrarme</string>
+
+    <!-- value  Register -->
+
+    <string name="description_image_resgister"> imagen resgistros</string>
+    <string name="text_hint_nombre">Escriba su nombre</string>
+    <string name="text_hint_apellido">Escriba su apellido</string>
+    <string name="text_hint_usuario_register">Escriba su usuario</string>
+    <string name="text_hint_pin_register">Escriba su Pin</string>
+    <string name="text_button_login">Ir al login</string>
+
+    <!-- value  Inicio -->
+    <string name="text_button_guardar">Guardar</string>
+    <string name="text_button_editar">Editar</string>
+    <string name="text_button_eliminar">Eliminar</string>
+    <string name="text_button_listar">Listar</string>
+    <string name="text_button_salir">Salir</string>
+    <string name="text_hint_libro">Escriba nombre del libro</string>
+    <string name="text_hint_autor">Escriba nombre del autor</string>
+    <string name="text_hint_claveLibro">Escriba la clave de su libro</string>
+
+
+
+
+
+</resources>
